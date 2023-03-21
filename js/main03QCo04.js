@@ -1,0 +1,2 @@
+// Strings
+const myVariable = "Mathematics";
