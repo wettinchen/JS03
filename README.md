@@ -67,4 +67,4 @@ https://www.youtube.com/@DaveGrayTeachesCode
         如果未輸入則逐個分割
 
 ### 16. Where to find more string methods
-        說明 MDN文件可以找到更多方法# JS03
+        說明 MDN 文件可以找到更多方法
